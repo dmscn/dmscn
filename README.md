@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 
 <!-- ![carbon (1)](https://user-images.githubusercontent.com/20416768/87479357-be686100-c601-11ea-98bf-c1cc33ce1c27.png) -->
 
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmscn&show_icons=true&theme=radical&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmscn&layout=compact&langs_count=8&theme=radical"/>
+</div>
